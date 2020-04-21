@@ -6,8 +6,7 @@
       "value": "mvDevOpsTest4"
     },
     "repoURL": {
-      //"value": "https://github.com/vrough/CiellosAzureDashboard"//
-      "value": "https://github.com/mykhalik7/ciellos"
+      "value": "https://github.com/mykhalik7/ciellos/releases/tag/v2/"
     }
   }
 }
