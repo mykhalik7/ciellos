@@ -3,7 +3,7 @@
   "contentVersion": "1.0.0.1",
   "parameters": {
     "siteName": {
-      "value": "mvDevOpsTest4"
+      "value": "mvDevOpsTest5"
     },
     "repoURL": {
       "value": "https://github.com/mykhalik7/ciellos/releases/tag/v2/"
