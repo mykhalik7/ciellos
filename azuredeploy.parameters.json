@@ -1,0 +1,13 @@
+{
+  "$schema": "https://schema.management.azure.com/schemas/2019-04-01/deploymentParameters.json#",
+  "contentVersion": "1.0.0.1",
+  "parameters": {
+    "siteName": {
+      "value": "mvDevOpsTest4"
+    },
+    "repoURL": {
+      //"value": "https://github.com/vrough/CiellosAzureDashboard"//
+      "value": "https://github.com/mykhalik7/ciellos"
+    }
+  }
+}
